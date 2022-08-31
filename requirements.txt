@@ -4,3 +4,4 @@ gunicorn
 requests
 pytest
 pre-commit
+python-multipart
